@@ -1,0 +1,30 @@
+{
+  "name": "Evergreen Industries",
+  "short_name": "Evergreen",
+  "description": "Evergreen Industries - Order Booking & Marketing Portal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "/evergreen-app/",
+  "display": "standalone",
+  "background_color": "#f8faf9",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "hi",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
